@@ -6,7 +6,7 @@
 My two most polished projects are:
 
 - [Dilan](https://github.com/Eukon05/dilanbot) - a Discord music bot that I've made for me and my friends to use
-- [Classroom](https://github.com/Eukon05/dilanbot) - an API trying to mimic Google Classroom's functionalities.
+- [Classroom](https://github.com/Eukon05/classroom) - an API trying to mimic Google Classroom's functionalities.
 
 Right now Classroom is under heavy development, while Dilan is receiving numerous small patches.<br>
 A giant refactoring is planned for Dilan after I finish working on Classroom.
