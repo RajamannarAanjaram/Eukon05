@@ -9,9 +9,6 @@ My two most polished projects are:
 - [Classroom](https://github.com/Eukon05/classroom) - an API trying to mimic Google Classroom's functionalities.
 
 Right now Classroom is almost finished, and Dilan has just went through a major rewrite.
-<br><br>
-There are a few old projects of mine on my GitHub profile, that are archived for not being a good representation of my skills anymore.<br>
-I may remake these projects in the future, but I'll more likely start working on something new and exciting 😎
 
 <h2>💻 Technologies and tools I use</h2>
 
