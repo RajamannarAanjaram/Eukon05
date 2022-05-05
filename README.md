@@ -1,6 +1,6 @@
 <h1>Hi! 👋 I'm Łukasz!</h1>
 🎓 I'm a 17 year old high school student from Poland, and a beginner in the Java backend development space.<br>
-🌱 I specialize in creating RESTful API's using Spring Boot.
+🌱 I specialize in creating RESTful APIs using Spring Boot.
 
 <h2>🔦 Highlights of my work</h2>
 My two most polished projects are:
