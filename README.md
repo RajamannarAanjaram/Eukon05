@@ -5,10 +5,10 @@
 <h2>🔦 Highlights of my work</h2>
 My two most polished projects are:
 
-- [Dilan](https://github.com/Eukon05/dilanbot) - a Discord music bot that I've made for me and my friends to use
 - [Classroom](https://github.com/Eukon05/classroom) - an API trying to mimic Google Classroom's functionalities.
+- [Dilan](https://github.com/Eukon05/dilanbot) - a Discord music bot that I've made for me and my friends to use
 
-Right now Classroom is almost finished, and Dilan has just went through a major rewrite.
+Right now Classroom is almost finished, and Dilan is actively supported.
 
 <h2>💻 Technologies and tools I use</h2>
 
