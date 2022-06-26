@@ -2,16 +2,7 @@
 🎓 I'm a 17 year old high school student from Poland, and a beginner in the Java backend development space.<br>
 🌱 I specialize in creating RESTful APIs using Spring Boot.
 
-<h2>🔦 Highlights of my work</h2>
-My two most polished projects are:
-
-- [Classroom](https://github.com/Eukon05/classroom) - an API trying to mimic Google Classroom's functionalities.
-- [Dilan](https://github.com/Eukon05/dilanbot) - a Discord music bot that I've made for me and my friends to use
-
-Right now Classroom is almost finished, and Dilan is actively supported.
-
 <h2>💻 Technologies and tools I use</h2>
-
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
