@@ -1,8 +1,9 @@
-<h1>Hi! 👋 I'm Łukasz!</h1>
-🎓 I'm a 17 year old high school student from Poland, and a beginner in the Java backend development space.<br>
-🌱 I specialize in creating RESTful APIs using Spring Boot.
+# Hi! 👋 I'm Łukasz!
+🎓 I'm a 17 year old high school student from Poland, and a beginner in the Java backend development space.  
+🌱 I specialize in creating RESTful APIs using Spring Boot.  
+🔨 I'm currently working in a team on an online tutoring application. [Check it out here](https://github.com/Simple-as-Coding/tutoring-platform)
 
-<h2>💻 Technologies and tools I use</h2>
+## 💻 Technologies and tools I use
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -19,5 +20,5 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-<h2>📈 My GitHub stats</h2>
+## 📈 My GitHub stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=eukon05&show_icons=true&locale=en&theme=radical" alt="eukon05" /></p>
