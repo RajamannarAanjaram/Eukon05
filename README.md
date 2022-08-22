@@ -1,7 +1,9 @@
 # Hi! 👋 I'm Łukasz!
 🎓 I'm a 17 year old high school student from Poland, and a beginner in the Java backend development space.  
 🌱 I specialize in creating RESTful APIs using Spring Boot.  
-🔨 I'm currently working in a team on an online tutoring application. [Check it out here](https://github.com/Simple-as-Coding/tutoring-platform)
+🔨 I'm currently working on two applications:
+- [An online tutoring platform](https://github.com/Simple-as-Coding/tutoring-platform)
+- [An expense tracker](https://github.com/Eukon05/financetracker)
 
 ## 💻 Technologies and tools I use
 
